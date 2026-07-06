@@ -2,7 +2,7 @@
 
 > Daily DSA problem solving in Python — clean solutions with step-by-step explanations.
 
-![Problems](https://img.shields.io/badge/Problems%20Solved-1-brightgreen?style=flat)
+![Problems](https://img.shields.io/badge/Problems%20Solved-3-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Difficulty](https://img.shields.io/badge/Focus-Easy%20→%20Medium-orange?style=flat)
 
