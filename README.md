@@ -17,7 +17,7 @@
 | [🔗 Linked Lists](./linked-lists/) | 0 | ⬜ Coming soon |
 | [🌳 Trees](./trees/) | 0 | ⬜ Coming soon |
 | [⚡ Dynamic Programming](./dynamic-programming/) | 0 | ⬜ Coming soon |
-| [🔍 Sorting & Searching](./sorting-searching/) | 0 | ⬜ Coming soon |
+| [🔍 Sorting & Searching](./sorting-searching/) | 1 | 🟢 Active |
 
 ---
 
