@@ -13,7 +13,7 @@
 | Category | Problems | Status |
 |----------|----------|--------|
 | [📦 Arrays](./arrays/) | 1 | 🟢 Active |
-| [🔤 Strings](./strings/) | 0 | ⬜ Coming soon |
+| [🔤 Strings](./strings/) | 1 | 🟢 Active |
 | [🔗 Linked Lists](./linked-lists/) | 0 | ⬜ Coming soon |
 | [🌳 Trees](./trees/) | 0 | ⬜ Coming soon |
 | [⚡ Dynamic Programming](./dynamic-programming/) | 0 | ⬜ Coming soon |
