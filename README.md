@@ -2,7 +2,7 @@
 
 > Daily DSA problem solving in Python — clean solutions with step-by-step explanations.
 
-![Problems](https://img.shields.io/badge/Problems%20Solved-11-brightgreen?style=flat)
+![Problems](https://img.shields.io/badge/Problems%20Solved-19-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Difficulty](https://img.shields.io/badge/Focus-Easy%20→%20Medium-orange?style=flat)
 
@@ -23,6 +23,14 @@
 | 9 | Linked List Cycle | 🟢 Easy | Linked Lists | [View](./linked-lists/linked-list-cycle.py) |
 | 10 | Merge Two Sorted Lists | 🟢 Easy | Linked Lists | [View](./linked-lists/merge-two-sorted-lists.py) |
 | 11 | Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | [View](./arrays/best-time-to-buy-sell-stock.py) |
+| 12 | Valid Parentheses | 🟢 Easy | Stacks | [View](./stacks/valid-parentheses.py) |
+| 13 | Reverse Linked List | 🟢 Easy | Linked Lists | [View](./linked-lists/reverse-linked-list.py) |
+| 14 | Majority Element | 🟢 Easy | Arrays | [View](./arrays/majority-element.py) |
+| 15 | Min Stack | 🟡 Medium | Stacks | [View](./stacks/min-stack.py) |
+| 16 | Number of Islands | 🟡 Medium | Graphs | [View](./graphs/number-of-islands.py) |
+| 17 | Longest Substring Without Repeating Characters | 🟡 Medium | Strings | [View](./strings/longest-substring-without-repeating.py) |
+| 18 | Merge Intervals | 🟡 Medium | Arrays | [View](./arrays/merge-intervals.py) |
+| 19 | Top K Frequent Elements | 🟡 Medium | Arrays | [View](./arrays/top-k-frequent-elements.py) |
 
 ---
 
