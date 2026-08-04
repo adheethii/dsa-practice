@@ -3,7 +3,7 @@ Problem: Search in Rotated Sorted Array
 Difficulty: Medium
 Category: Binary Search
 LeetCode: #33
-
+ 
 Problem Statement:
 A sorted array is rotated at some unknown pivot (e.g. [4,5,6,7,0,1,2]
 was [0,1,2,4,5,6,7] rotated). Given the rotated array and a target,
