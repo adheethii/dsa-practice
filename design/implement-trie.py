@@ -1,6 +1,6 @@
 """
 Problem: Implement Trie (Prefix Tree)
-Difficulty: Medium
+Difficulty: Medium 
 Category: Design / Strings / Trees
 LeetCode: #208
 
