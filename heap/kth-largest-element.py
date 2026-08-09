@@ -1,7 +1,7 @@
 """
 Problem: Kth Largest Element in an Array
 Difficulty: Medium
-Category: Heap
+Category: Heap 
 LeetCode: #215
 
 Problem Statement:
