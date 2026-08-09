@@ -3,7 +3,7 @@ Problem: Binary Search
 Difficulty: Easy
 Category: Sorting & Searching
 LeetCode: #704
-
+ 
 Problem Statement:
 Given a sorted array of integers nums and an integer target,
 return the index of target. If not found, return -1.
